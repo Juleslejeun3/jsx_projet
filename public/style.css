@@ -1,0 +1,10 @@
+.title_red{
+text-align: center;
+color: rgb(4, 140, 230);
+}
+.imagePub{
+    width: 900px;
+    height: 600px;
+    display: block;
+    margin: auto;
+}
